@@ -22,4 +22,4 @@ class Element (Oxygen):
     
 b = Oxygen()
 print(b.agg_state(30))
-a = 10
+
